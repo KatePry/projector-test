@@ -1,2 +1,3 @@
 def app(a, b):
-    return a-b+a
+    return a*b
+
